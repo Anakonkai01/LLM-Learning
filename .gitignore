@@ -1,0 +1,24 @@
+# Model checkpoints (chứa trọng số mô hình rất nặng)
+qwen-medical-pretrained/
+qwen-medical-sft/
+
+# Experiment logs & tracking (thư mục log của Weights & Biases)
+wandb/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (nếu có)
+.venv/
+venv/
+env/
+dist/
+build/
+
+# OS files
+.DS_Store
